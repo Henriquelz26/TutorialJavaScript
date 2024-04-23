@@ -24,9 +24,17 @@ Node.js é um software de código aberto, multiplataforma, baseado no interpreta
 * **console.log()** : é o comando usado para exibir qualquer texto, variável, função, array, etc.
 *  **
 ## Variáveis
-* **let**: Declara uma variável .
-* **var**:
-* **const**:
+* **let**: Declara uma variável que só é acessível dentro do bloco de código em que foi declarada.
+![let](https://github.com/Henriquelz26/TutorialJavaScript/assets/135260061/11fc402e-e4c6-4c3f-968c-ade780ef46c2)
+
+* **var**: Declara uma variável que pode ser acessada e modificada de qualquer parte do código dentro de seu escopo funcional ou em todo o código se for global.
+
+![var](https://github.com/Henriquelz26/TutorialJavaScript/assets/135260061/22a2f67d-0bf8-499e-91fa-339fd44f0061)
+
+* **const**: Declara variáveis que não podem ter seu valor reatribuído após a inicialização.
+![const](https://github.com/Henriquelz26/TutorialJavaScript/assets/135260061/00aab47e-cb86-4887-b8a1-d0ffbb1d44b4)
+
+
 * **int**: 
 
 ## Tipos de Dados
