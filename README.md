@@ -24,13 +24,24 @@ Node.js é um software de código aberto, multiplataforma, baseado no interpreta
 * **console.log()** : é o comando usado para exibir qualquer texto, variável, função, array, etc.
 *  **
 ## Variáveis
-* **let**: Declara uma variável local no escopo do bloco atual, opcionalmente iniciando-a com um valor.
+* **let**: Declara uma variável .
 * **var**:
 * **const**:
+* **int**: 
+
 ## Tipos de Dados
+* **String**: Uma variável de texto.
+* **Number**: Uma variável de número.
+* **Boolean**: Uma variável que se tem apenas dois possíveis valores: false e true (verdadeiro e falso).
+* **Null**: Uma variável que possui valor nulo.
+* **Objeto**: Um objeto é uma coleção de propriedades, onde cada propriedade é definida por um par de chave-valor. 
+* **Array**: Um array é um tipo especial de variável utilizado para armazenar uma coleção de dados.
 
 ## Funções
 
 ## Estruturas de Controle
 
 ## Eventos e Manipulação do DOM
+
+
+https://youtu.be/HlpoJC45XAc?si=9Vxp8_sLqELUNWLg
