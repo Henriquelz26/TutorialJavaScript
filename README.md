@@ -48,6 +48,7 @@ Node.js é um software de código aberto, multiplataforma, baseado no interpreta
 
 ## Funções
 Funções são blocos de construção fundamentais em JavaScript, permitindo que você agrupe um conjunto de instruções e as execute sempre que necessário.
+
 ![function](https://github.com/Henriquelz26/TutorialJavaScript/assets/135260061/ca2ba490-8908-4758-a74a-af85142cb16b)
 
 ## Estruturas de Controle
