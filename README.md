@@ -21,8 +21,12 @@ Ok, não tudo, mas é maravilhoso o que você pode efetuar com algumas linhas de
 Node.js é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web.
 
 ## Sintaxes Básicas 
-* **console.log()** : é o comando usado para exibir qualquer texto, variável, função, array, etc.
-*  **
+### **console.log()** : é o comando usado para exibir qualquer texto, variável, função, array, etc.
+### **//Comentário**: se usa para escrever algum comentário sobre o código, pode-se usar:
+* // para comentários de uma só linha
+* /* para um comentário longo */
+
+
 ## Variáveis
 * **let**: Declara uma variável que só é acessível dentro do bloco de código em que foi declarada.
 ![let](https://github.com/Henriquelz26/TutorialJavaScript/assets/135260061/11fc402e-e4c6-4c3f-968c-ade780ef46c2)
@@ -67,10 +71,15 @@ O for serve para fazer loops. Ou seja, iterações condicionais. Enquanto uma co
 
 ![for](https://github.com/Henriquelz26/TutorialJavaScript/assets/135260061/9cc3d32f-1324-4f25-a8c9-016cf9fb40e3)
 
+### While:
+A declaração while cria um laço que executa uma rotina especifica enquanto a condição de teste for avaliada como verdadeira. A condição é avaliada antes da execução da rotina.
+
+![while](https://github.com/Henriquelz26/TutorialJavaScript/assets/135260061/c0d4bf49-2d21-4f9a-89f1-48573103b3c7)
+
 
 
 ## Eventos e Manipulação do DOM   
 
 
 
-https://youtu.be/HlpoJC45XAc?si=9Vxp8_sLqELUNWLg
+
