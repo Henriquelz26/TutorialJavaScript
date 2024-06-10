@@ -79,7 +79,6 @@ A declaração while cria um laço que executa uma rotina especifica enquanto a 
 
 
 ## Eventos e Manipulação do DOM   
-
-
+JavaScript pode ser usado para manipular o Document Object Model (DOM) de uma página web. Isso inclui adicionar, remover ou modificar elementos HTML, além de lidar com eventos do usuário, como cliques de mouse e pressionamentos de tecla.
 
 
